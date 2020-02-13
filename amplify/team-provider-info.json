@@ -1,0 +1,20 @@
+{
+    "atfront": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-my-aws-project-atfront-165543-authRole",
+            "UnauthRoleArn": "arn:aws:iam::025152935712:role/amplify-my-aws-project-atfront-165543-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::025152935712:role/amplify-my-aws-project-atfront-165543-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-my-aws-project-atfront-165543-deployment",
+            "UnauthRoleName": "amplify-my-aws-project-atfront-165543-unauthRole",
+            "StackName": "amplify-my-aws-project-atfront-165543",
+            "StackId": "arn:aws:cloudformation:us-east-1:025152935712:stack/amplify-my-aws-project-atfront-165543/f6e95220-4eb3-11ea-858b-125f4521752f",
+            "AmplifyAppId": "d1luhwctjfoim9"
+        },
+        "categories": {
+            "auth": {
+                "cognito704b3e59": {}
+            }
+        }
+    }
+}
